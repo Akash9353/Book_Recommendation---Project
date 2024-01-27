@@ -140,7 +140,6 @@ The approaches used in this project are:
 
 Akash R Biradar | Data Science
 
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 
 
